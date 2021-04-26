@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  width: 100vw;
+  background-color: #f7da67;
+  bottom: 0;
+  position: fixed;
+  z-index: 1;
+}
+.types {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #cef86a;
+}
