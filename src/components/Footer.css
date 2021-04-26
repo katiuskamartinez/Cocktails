@@ -13,5 +13,5 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-color: #cef86a;
+  padding-top: 0.5rem;
 }
